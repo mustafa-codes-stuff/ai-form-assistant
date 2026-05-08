@@ -9,6 +9,12 @@ A minimal, dark-themed Next.js application that leverages an AI endpoint to prov
 - **AI Validation**: Instead of basic regex rules, the form inputs are sent to an LLM (`text.pollinations.ai`) which evaluates the data and returns friendly suggestions.
 - **Responsive & Accessible**: Clean, centered card layout that works on all screen sizes.
 
+## Screenshots
+
+| Initial State | Filled State |
+| :---: | :---: |
+| ![Initial Form](./samples/initial-form.png) | ![Filled Form](./samples/filled-form.png) |
+
 ## How it works
 
 1. The user fills in their Name, Email, Password, and Bio.
