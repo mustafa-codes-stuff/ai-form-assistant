@@ -1,5 +1,7 @@
 # AI Form Assistant
 
+**Live Demo**: [https://ai-form-assistant-eight.vercel.app/](https://ai-form-assistant-eight.vercel.app/)
+
 A minimal, dark-themed Next.js application that leverages an AI endpoint to provide real-time suggestions and validation for form inputs.
 
 ## Features
